@@ -1,4 +1,4 @@
-url : 'https://www.saucedemo.com/v1/index.html'
+url : 'https://www.saucedemo.com/'
 username : 'standard_user'
 password : 'secret_sauce'
 username_locator : 'user-name'
